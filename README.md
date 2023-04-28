@@ -1,2 +1,1 @@
-# for-heroku
-Copyright @Data Glacier
+# ML Model Deployment on Heroku
